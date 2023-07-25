@@ -1,4 +1,4 @@
-| Serial No | Attribute Name       | Description                                         | Flexbox  | CSS Grid |
+| Serial No | Attribute Name       | Description                                         | Flexbox  | Grid |
 |-----------|----------------------|-----------------------------------------------------|----------|-----------|
 | 1         | flex-direction      | Specifies the direction of the flexible items.    | Yes      | No        |
 | 2         | flex-wrap           | Defines if the flexible items should wrap or not. | Yes      | No        |
